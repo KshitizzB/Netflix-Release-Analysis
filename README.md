@@ -9,5 +9,5 @@ Key Features:
  - Used Azure Databricks for creating cleaning and analysis notebooks
  - Implemented delta partitions for caching
  - Generating results and plots using window functions and dataframes
- - Power BI used for visualisations
+ - Power BI used for visualisations and dashboards
  - Created various measures using DAX queries
